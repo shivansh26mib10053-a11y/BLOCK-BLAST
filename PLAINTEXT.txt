@@ -1,0 +1,21 @@
+block-blast/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── RESULTS.md
+├── requirements.txt
+├── main.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── game.py
+│   ├── grid.py
+│   └── piece.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_grid.py
+    └── test_piece.py
